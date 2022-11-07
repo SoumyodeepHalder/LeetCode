@@ -1,0 +1,3 @@
+every topics should have a folder eg. array, db, tree...etc
+inside every topic-folder crete 3 folders. easy, medium, hard
+then keep files in it
