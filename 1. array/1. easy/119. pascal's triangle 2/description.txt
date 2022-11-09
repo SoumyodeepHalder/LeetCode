@@ -1,0 +1,11 @@
+rowIndex = 3
+output: [1,3,3,1]
+
+rowIndex = 0
+output: [1]
+
+rowIndex = 1
+output: [1,1]
+
+class Solution(object):
+    def getRow(self, rowIndex)
